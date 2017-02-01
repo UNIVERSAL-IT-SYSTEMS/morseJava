@@ -13,4 +13,4 @@ Link to TarsosDSP:
 https://github.com/JorenSix/TarsosDSP
 
 How to use decoder:
-Once you have selected the audio output, the decoder is turned on with the change of slider value.
+After you pressed Decoder button, a new window will popup. Inside that window you need to select the audio input and change value of slider value. Value of slider should be slightly below the curve in order to properly decode the signal (signal bellow line is ignored). Decoder will than be activated. 
